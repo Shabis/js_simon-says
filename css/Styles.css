@@ -1,0 +1,14 @@
+
+body {
+  text-align: center;
+  }
+
+  .start{
+  margin: 50px 50px;
+}
+
+.buttons, .btn-lg {
+  border-color: black;
+  border-width: 125px;
+
+}
